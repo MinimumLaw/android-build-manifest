@@ -33,7 +33,7 @@
   <project path="vendor/nxp-opensource/kernel_imx" name="linux-imx" remote="imx-linux-sdk" revision="refs/tags/p9.0.0_2.3.4" />
   <project path="vendor/nxp-opensource/libdrm-imx" name="libdrm-imx" remote="imx-linux-sdk" revision="refs/tags/p9.0.0_2.3.4" />
 
-  <project path="device/ravion" name="android-ravion-device" remote="ravion-imx" revision="refs/heads/ravion-pie" />
+  <project path="device/ravion" name="android-ravion-devices" remote="ravion-imx" revision="refs/heads/ravion-pie" />
   <project path="vendor/nxp-opensource/imx" name="platform/hardware/imx" remote="android-imx-orig" revision="refs/tags/p9.0.0_2.3.4" />
   <project path="vendor/nxp-opensource/fsl_imx_demo" name="platform/packages/apps/fsl_imx_demo" remote="android-imx-orig" revision="refs/tags/p9.0.0_2.3.4" />
 
